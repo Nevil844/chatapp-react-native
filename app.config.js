@@ -40,7 +40,7 @@ export default {
       storageBucket: process.env.STORAGE_BUCKET,
       messagingSenderId: process.env.MESSAGING_SENDER_ID,
       appId: process.env.APP_ID,
-      projectId:process.env.PROJECT_ID,
+      projectId:"1892301f-f6b7-4c0e-9cde-5371b54ec0bc",
     }
   }
 }
